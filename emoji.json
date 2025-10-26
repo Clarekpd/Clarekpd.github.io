@@ -1,0 +1,179 @@
+{
+    "emojis": [
+        {
+            "id": 0,
+            "name": "spade suit",
+            "category": "activities",
+            "unicode": "2660",
+            "description": "A spade symbol emoji, which is used in card games for the spades suit."
+        },
+        {
+            "id": 1,
+            "name": "flower playing cards",
+            "category": "activities",
+            "unicode": "1F3B4",
+            "description": "A type of cards known as hanafuda cards in Japan which are used for a range of different games"
+        },
+        {
+            "id": 2,
+            "name": "framed picture",
+            "category": "activities",
+            "unicode": "1F5BC",
+            "description": "A framed picture of a painting or photograph, as displayed in a gallery or on a household wall."
+        },
+        {
+            "id": 3,
+            "name": "knot",
+            "category": "activities",
+            "unicode": "1FAA2",
+            "description": "Brightly colored rope forming a knot."
+        },
+        {
+            "id": 4,
+            "name": "lab coat",
+            "category": "objects",
+            "unicode": "1F97C",
+            "description": "A white coat worn in a science laboratory."
+        },
+        {
+            "id": 5,
+            "name": "jeans",
+            "category": "objects",
+            "unicode": "1F456",
+            "description": "Denim jeans, worn by men or women."
+        },
+        {
+            "id": 6,
+            "name": "dress",
+            "category": "objects",
+            "unicode": "1F457",
+            "description": "A pretty dress, suitable for a ball, party or other similar occasion."
+        },
+        {
+            "id": 7,
+            "name": "clutch bag",
+            "category": "objects",
+            "unicode": "1F45D",
+            "description": "A small pouch, somewhere between the size of a handbag, and a purse"
+        },
+        {
+            "id": 8,
+            "name": "thong sandal",
+            "category": "objects",
+            "unicode": "1FA74",
+            "description": "A single flip flop or thong sandal. Often worn to the beach andor in warm weather."
+        },
+        {
+            "id": 9,
+            "name": "video game",
+            "category": "activities",
+            "unicode": "1F3AE",
+            "description": "A video game emoji, shown on major platforms as a console gamepad with D-pad"
+        },
+        {
+            "id": 10,
+            "name": "rainbow",
+            "category": "travel-places",
+            "unicode": "1F308",
+            "description": "The colorful arc of a rainbow, as may appear after rain. Generally depicted as the left half of a full rainbow, showing six bands of color"
+        },
+        {
+            "id": 11,
+            "name": "umbrella on ground",
+            "category": "travel-places",
+            "unicode": "26F1",
+            "description": "A large, open umbrella, as provides shade at a beach or patio."
+        },
+        {
+            "id": 12,
+            "name": "high voltage",
+            "category": "travel-places",
+            "unicode": "26A1",
+            "description": "A symbol for high voltage, as warns against injury from electricity."
+        },
+        {
+            "id": 13,
+            "name": "snowman",
+            "category": "travel-places",
+            "unicode": "2603",
+            "description": "A classic snowman, as Frosty the Snowman, with snowflakes"
+        },
+        {
+            "id": 14,
+            "name": "fire",
+            "category": "travel-places",
+            "unicode": "1F525",
+            "description": "A flame, as produced when something is on fire. Depicted as a red, orange, and yellow flickering flame."
+        },
+        {
+            "id": 15,
+            "name": "comet",
+            "category": "travel-places",
+            "unicode": "2604",
+            "description": "A comet, an icy, rocky space object that can form a tail of gas and dust when near the sun."
+        },
+        {
+            "id": 16,
+            "name": "droplet",
+            "category": "travel-places",
+            "unicode": "1F4A7",
+            "description": "A single, light blue droplet, as of water, sweat, or tears. May be used for various types of liquid."
+        },
+        {
+            "id": 17,
+            "name": "jack-o-lantern",
+            "category": "activities",
+            "unicode": "1F383",
+            "description": "An orange pumpkin carved into the shape of a face and commonly known as a Jack-o’-lantern."
+        },
+        {
+            "id": 18,
+            "name": "christmas tree",
+            "category": "activities",
+            "unicode": "1F384",
+            "description": "A classic Christmas tree, an evergreen tree decorated with lights and ornaments to celebrate Christmas."
+        },
+        {
+            "id": 19,
+            "name": "fireworks",
+            "category": "activities",
+            "unicode": "1F386",
+            "description": "Firework emoji, showing a explosion of colored light in the night sky, used for any number of celebrations"
+        },
+        {
+            "id": 20,
+            "name": "sparkles",
+            "category": "activities",
+            "unicode": "2728",
+            "description": "The glittering flashes of sparkles."
+        },
+        {
+            "id": 21,
+            "name": "tanabata tree",
+            "category": "activities",
+            "unicode": "1F38B",
+            "description": "A Tanabata tree, a type of wish tree on which people hang wishes written on paper and other"
+        },
+        {
+            "id": 22,
+            "name": "carp streamer",
+            "category": "activities",
+            "unicode": "1F38F",
+            "description": "Japanese koinobori, decorative, carp-shaped windsocks flown in celebration"
+        },
+        {
+            "id": 23,
+            "name": "american football",
+            "category": "activities",
+            "unicode": "1F3C8",
+            "description": "The oval ball used in the game of American football"
+        },
+        {
+            "id": 24,
+            "name": "volleyball",
+            "category": "activities",
+            "unicode": "1F3D0",
+            "description": "A volleyball emoji, showing the round ball used in the sport."
+        }
+    ]
+}
